@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karol Hartwig\\Documents\\GitHub\\SharedData\\c#\\HangMan\\HangMan.csproj": {}
+    "C:\\Users\\NorteX\\Desktop\\nphangman\\HangMan\\HangMan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karol Hartwig\\Documents\\GitHub\\SharedData\\c#\\HangMan\\HangMan.csproj": {
+    "C:\\Users\\NorteX\\Desktop\\nphangman\\HangMan\\HangMan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karol Hartwig\\Documents\\GitHub\\SharedData\\c#\\HangMan\\HangMan.csproj",
+        "projectUniqueName": "C:\\Users\\NorteX\\Desktop\\nphangman\\HangMan\\HangMan.csproj",
         "projectName": "HangMan",
-        "projectPath": "C:\\Users\\Karol Hartwig\\Documents\\GitHub\\SharedData\\c#\\HangMan\\HangMan.csproj",
-        "packagesPath": "C:\\Users\\Karol Hartwig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karol Hartwig\\Documents\\GitHub\\SharedData\\c#\\HangMan\\obj\\",
+        "projectPath": "C:\\Users\\NorteX\\Desktop\\nphangman\\HangMan\\HangMan.csproj",
+        "packagesPath": "C:\\Users\\NorteX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NorteX\\Desktop\\nphangman\\HangMan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Karol Hartwig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NorteX\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
